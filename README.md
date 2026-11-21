@@ -34,7 +34,7 @@ exp1_boolean_min.vcd	VCD waveform dump generated during simulation
     
 ## Truth Table
  
-<img width="795" height="311" alt="image" src="https://github.com/user-attachments/assets/dd4ba5b9-016b-4ae5-a693-f309c60c4c0e" />
+
 
 ## Simulation Procedure
 STEP 1 – Open Terminal
@@ -85,6 +85,7 @@ and successfully implemented using Verilog HDL.
 
 ## OUTPUT
 
+<img width="1600" height="878" alt="exp 1" src="https://github.com/user-attachments/assets/1507dcda-f5a5-4f54-bc35-96efec40bed4" />
 
 
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
